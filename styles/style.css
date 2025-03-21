@@ -1,0 +1,13 @@
+* {
+    font-family: Helveticas;
+}
+
+body {
+    background-color: beige;
+}
+
+a {
+    font-size: 30px;
+    text-decoration-line: inherit;
+    color: black;
+}
